@@ -1,14 +1,14 @@
 //Task1_day1
 var Name="  Yaqeen Faisal AlTa'ani"; 
 var major="Computer Science";
-var jpa=70;
+var jpa= "خليها ع اللّه";
 alert( "Name: "+ Name+ "  " +"Major: " +" " +major+"  "+"jpa:" + "  "+jpa+".");
 console.log( "Name: "+ Name+ " " +"Major: " +" " +major+"  "+"jpa:" + "  "+jpa+".");
 document.writeln( "Name: "+ Name+ " " +"Major: " +" " +major+"  "+"jpa:" + "  "+jpa+".");
 
 
 //Task2_day1
-
+var jpa= 90;
 if (jpa >= 90 && jpa <= 100) {
    console.log("ممتاز");
 }
